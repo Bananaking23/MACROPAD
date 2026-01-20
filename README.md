@@ -25,6 +25,9 @@ This Macropad has 9 buttons, 2 mini leds, and a capacitive touch button
 <img width="1286" height="484" alt="image" src="https://github.com/user-attachments/assets/3dd07808-95eb-419d-8ee2-aed4cf41af4e" />
 
 it is put together using 4 screws and heat inserts.
+### Dimensions
+80.46mm(W)x14.5mm(H)x104.44mm(L)
+
 
 ## BOM(prices are estimate):
 <img width="289" height="200" alt="image" src="https://github.com/user-attachments/assets/9c45f7d8-eb28-40f6-9ce3-4ee272978fca" />
@@ -42,8 +45,3 @@ it is put together using 4 screws and heat inserts.
 1
 2
 3
-
-
-
-
-
