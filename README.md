@@ -9,6 +9,8 @@ This Macropad has 9 buttons, 2 mini leds, and a capacitive touch button
 -customisable layers using kmk
 -capacaitive touch button to swap layers.
 
+# Photos
+
 ## Final product example when finished:
 ![alt text](https://github.com/Bananaking23/MACROPAD/blob/main/FULL%20v2.png)
 
@@ -27,6 +29,19 @@ it is put together using 4 screws and heat inserts.
 ## BOM(prices are estimate):
 <img width="289" height="200" alt="image" src="https://github.com/user-attachments/assets/9c45f7d8-eb28-40f6-9ce3-4ee272978fca" />
 
+# Pin definitions
+
+### column
+8
+
+9
+
+10
+
+### rows
+1
+2
+3
 
 
 
