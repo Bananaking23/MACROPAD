@@ -12,7 +12,7 @@ This Macropad has 9 buttons, 2 mini leds, and a capacitive touch button
 # Photos
 
 ## Final product example when finished:
-![alt text](https://github.com/Bananaking23/MACROPAD/blob/main/FULL%20v2.png)
+![all text](https://github.com/Bananaking23/MACROPAD/blob/main/FULL%20v2.png)
 
 ## Screenshot of Schematic
 <img width="1058" height="496" alt="image" src="https://github.com/user-attachments/assets/493c5212-5d56-4fbc-b189-0587970bd8be" />
@@ -42,11 +42,12 @@ it is put together using 4 screws and heat inserts.
 
 ## Photos
 ### The Macropad
+<img width="3072" height="4080" alt="image" src="https://github.com/user-attachments/assets/2e858bdc-6fb8-4107-887e-9f861c7c004d" />
 
 ### The Software
 
 IMO great software, easy to use too
-#### Main Menu
+#### Play Menu
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/53951dab-883a-4106-b9d7-9863261ec490" />
 
 #### Sections
