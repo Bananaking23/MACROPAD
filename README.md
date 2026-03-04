@@ -47,7 +47,7 @@ it is put together using 4 screws and heat inserts.
 ### The Software
 
 IMO great software, easy to use too
-#### Play Menu
+#### Main Menu
 <img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/53951dab-883a-4106-b9d7-9863261ec490" />
 
 #### Sections
